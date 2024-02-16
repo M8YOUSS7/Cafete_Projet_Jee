@@ -1,0 +1,115 @@
+@charset "UTF-8";
+
+#body {
+        margin-left: 7%;
+        margin-right: 7%;
+        text-align: center;
+        background-color: turquoise;
+        color: aliceblue;
+}
+
+#header, #footer, #content {
+        width: 100%;
+}
+
+#footer th {
+        border : 9px groove powderblue;
+        background-color: cadetblue;
+        border-collapse: collapse;
+        border-radius: 5px;
+}
+
+#header a {
+        border : 9px groove powderblue;
+        background-color: cadetblue;
+        border-collapse: collapse;
+        border-radius: 5px;
+        width: 100%;
+        color: inherit;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+}
+
+#Ajouter {
+        border : 9px groove powderblue;
+        background-color: green;
+        border-collapse: collapse;
+        border-radius: 5px;
+        width: 100%;
+}
+
+.err {
+        color: brown;
+}
+
+#content {
+        position: relative;
+}
+
+
+#msgBvn {
+        top: 50%;
+        width: 100%;
+        font-size: 35px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: pink;
+	top: 50%;
+    width: 100%;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#selectProducer {
+        border : 9px groove powderblue;
+        background-color: cadetblue;
+        border-collapse: collapse;
+        border-radius: 5px;
+        width: 50%;
+        color: inherit;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+}
+
+#prjLab {
+        width: 50%;
+        text-align: left;
+}
+
+#formBody {
+ 	text-align: center;
+ 	width: 100%;
+ 	background-color: salmon;
+ 	color: black;
+}
+
+
+#producers {
+	background-color: cadetblue;
+	width: 60%;
+	margin-left: 20%;
+	color: black;
+	border : 9px groove powderblue;
+}
+
+.moyenne {
+	color: yellow;
+}
+
+#coffees {
+	background-color: cadetblue;
+	width: 100%;
+	color: black;
+	border: 9px groove powderblue;
+}
+
+
+#coffeesView {
+	width: inherit;
+ 	background-color: cadetblue;
+ 	border: 9px groove powderblue;
+ }
